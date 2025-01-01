@@ -66,18 +66,19 @@
 
 Here's an enhanced version of the Experience and Technical Skills sections with icons and improved styles for a polished and modern look:
 
-💻 Experience
-Full Stack Developer Intern
-Accolade Tech Solutions (Mar – Jun 2024)
+### 💻 Experience
 
-🚀 Led the development of AgroMart, a full-stack application for agricultural product management.
-🌐 Built a seamless React frontend, Node.js/Express backend, and MySQL database.
-🛠️ Designed RESTful APIs for optimal data handling and integration.
-Web Developer
-AGPOTATO, WTC Bengaluru (Sep 2024 – Present)
+#### Full Stack Developer Intern  
+**Accolade Tech Solutions** (Mar – Jun 2024)  
+- 🚀 Led the development of **AgroMart**, a full-stack application for agricultural product management.  
+- 🌐 Built a seamless **React** frontend, **Node.js/Express** backend, and **MySQL** database.  
+- 🛠️ Designed **RESTful APIs** for optimal data handling and integration.  
 
-🌟 Enhanced brand presence by developing a static, responsive website using Next.js and React.js.
-🎨 Focused on SEO Optimization, UI/UX Design, and Framer Motion for improved user engagement.
+#### Web Developer  
+**AGPOTATO, WTC Bengaluru** (Sep 2024 – Present)  
+- 🌟 Enhanced brand presence by developing a static, responsive website using **Next.js** and **React.js**.  
+- 🎨 Focused on **SEO Optimization**, **UI/UX Design**, and **Framer Motion** for improved user engagement.  
+
 <h3 align="left">🛠 **Technical Skills**</h3> <div align="left"> <table> <tr> <td><strong>Languages</strong></td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </td> </tr> <tr> <td><strong>Libraries/Frameworks</strong></td> <td> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> </td> </tr> <tr> <td><strong>Database Management</strong></td> <td> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </td> </tr> <tr> <td><strong>Web Development Tools</strong></td> <td> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white" alt="SEO" /> </td> </tr> </table> </div>
 
 ---
