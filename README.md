@@ -1,5 +1,4 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./gf.mp4)
+
 
 <!--Night Owl image-->
 <div>
