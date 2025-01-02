@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-<img align="right" width="40%" src="https://pixabay.com/illustrations/ai-generated-mask-man-anonymous-8844136/">
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
