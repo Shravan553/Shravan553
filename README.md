@@ -119,6 +119,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 
 
   </tr>
+  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
