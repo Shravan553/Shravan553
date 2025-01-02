@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-<img align="right" width="40%" src="https://pixabay.com/vectors/anonymous-hide-private-hacker-8291223/">
+<img align="right" width="40%" src="https://pixabay.com/illustrations/ai-generated-mask-man-anonymous-8844136/">
 </div>
 
 <!--Header Name-->
