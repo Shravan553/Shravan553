@@ -200,4 +200,4 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-update abov
+
