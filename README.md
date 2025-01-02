@@ -194,7 +194,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 <div align="center">
 <a href="https://www.buymeacoffee.com/Shravan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div> -->
-<a href="https://github.com/Shravan553/ShanPort">
+<a href="https://github.com/Shravan553/ShanPort">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shravan553&repo=developer-portfolio&theme=algolia" />
 </a>
 <a href="https://github.com/Shravan553/manygames">
