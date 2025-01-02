@@ -197,7 +197,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 <a href="https://github.com/Shravan553/ShanPort">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shravan553&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/Shravan553/manygames">
+<a href="https://github.com/Shravan553/ManyGames">      
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shravan553&repo=Express-Postgres-blog&theme=algolia" />
 </a>
 
