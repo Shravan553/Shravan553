@@ -144,9 +144,9 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 
 
   </tr>
- <div class="center">
-  <a href="https://stardev.io/developers/Shravan553">
-    <img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" />
+ <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
+  <a href="https://github.com/Shravan553">
+    <img alt="Check out Shravan553's GitHub profile" src="https://img.shields.io/github/followers/Shravan553?label=Follow&style=social" />
   </a>
 </div>
   <tr>
