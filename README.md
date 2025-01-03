@@ -1,4 +1,8 @@
 <!--Night Owl image-->
+<h1 align="center">Hello Coders!! 👋</h1>
+
+![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+
 <div>
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -21,9 +25,12 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shravan553&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shravan553&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Shravan553?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Shravan553?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
 
 ---
 
