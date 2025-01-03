@@ -149,7 +149,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
   <img src="https://wakatime.com/badge/user/Shravan553.svg" alt="wakatime">
 </a>
 
-<img src="https://img.shields.io/github/workflow/status/Shravan553/Shravan553/CI" alt="Build Status">
+
 
   </a>
 </div>
