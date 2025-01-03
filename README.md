@@ -106,9 +106,9 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/Shravan553/Shravan553/left.png">
+    <img height="150" width="150" src="https://github.com/Shravan553/Shravan553/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan553&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/Shravan553/Shravan553/right.png">
+    <img height="150" width="150" src="https://github.com/Shravan553/Shravan553/blob/main/right.png">
   </a>
 </p>
 
