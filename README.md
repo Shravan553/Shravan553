@@ -147,6 +147,23 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
 
 </a>
+#extra
+<p align="center">
+  <a href="https://github.com/Shravan553">
+    <img src="https://profile-counter.glitch.me/Shravan553/count.svg" alt="Visitor Count" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shravan553">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CFC00&center=true&vCenter=true&lines=Hi+there!+I'm+Shravan.;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
+
+
 
 
 
