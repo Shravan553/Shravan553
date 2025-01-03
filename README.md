@@ -1,4 +1,4 @@
-<!--Night Owl image-->
+ <!--Night Owl image-->
 <h1 align="center">Hello Coders!! 👋</h1>
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
@@ -145,8 +145,9 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 
   </tr>
  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
-  <a href="https://github.com/Shravan553">
-    <img alt="Check out Shravan553's GitHub profile" src="https://img.shields.io/github/followers/Shravan553?label=Follow&style=social" />
+ [![wakatime](https://wakatime.com/badge/user/Shravan553.svg)](https://wakatime.com/@Shravan553)
+![Build Status](https://img.shields.io/github/workflow/status/Shravan553/Shravan553/CI)
+
   </a>
 </div>
   <tr>
