@@ -145,8 +145,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
 
   </tr>
  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
-<a href="https://wakatime.com/@Shravan553">
-  <img src="https://wakatime.com/badge/user/Shravan553.svg" alt="wakatime">
+
 </a>
 
 
