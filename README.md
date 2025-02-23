@@ -135,6 +135,7 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
     </td>
   <td width="50%">
    <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+   
    <p align="center">
       <a href="https://github.com/Shravan553">
          <img align="center" src="https://streak-stats.vercel.app?user=Shravan553&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -147,6 +148,11 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
 
 </a>
+ </tr>
+ <a href="https://www.holopin.io/@shravan553#"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
+
+</a>
+
 #extra
 <p align="center">
   <a href="https://github.com/Shravan553">
