@@ -148,10 +148,6 @@ Here's an enhanced version of the Experience and Technical Skills sections with 
  <a href="https://stardev.io/developers/Shravan553"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
 
 </a>
- </tr>
- <a href="https://www.holopin.io/@shravan553#"><img alt="Check out Shravan553's profile on stardev.io" src="https://stardev.io/developers/Shravan553/badge/languages/global.svg" /></a>
-
-</a>
 
 #extra
 <p align="center">
